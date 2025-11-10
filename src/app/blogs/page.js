@@ -217,7 +217,7 @@ const BlogPage = () => {
                 }}
                 className="group cursor-pointer"
               >
-                <Link href={`/blog/${post.id}`}>
+                <Link href={`/blogs/${post.id}`}>
                   <div className={`bg-gradient-to-br ${post.gradient} rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 h-full flex flex-col`}>
                     
                     {/* Illustration Section - Top 60% */}

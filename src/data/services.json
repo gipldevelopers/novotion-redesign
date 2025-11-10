@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rpo",
+    "title": "Recruitment Process Outsourcing",
+    "subtitle": "Your Hiring Goals, Accelerated",
+    "bullets": [
+      "End-to-End Recruitment Management",
+      "Offshore Recruitment Support",
+      "Talent Sourcing & Headhunting",
+      "CV Formatting & Candidate Preparation",
+      "Lead Generation & Marketing Support"
+    ],
+    "cta": "Explore RPO Services",
+    "icon": "briefcase"
+  },
+  {
+    "id": "career-support",
+    "title": "Career Support & Recruitment Facilitation",
+    "subtitle": "Connect with contract-based roles in USA",
+    "bullets": [
+      "Professional Marketing & Profile Positioning",
+      "Precision-Matched Submissions",
+      "Interview Coaching & Feedback",
+      "Contract Negotiation & Onboarding Support"
+    ],
+    "cta": "Explore Services",
+    "icon": "rocket"
+  },
+  {
+    "id": "specialized-services",
+    "title": "Specialized Solutions",
+    "subtitle": "Deep industry vertical expertise",
+    "bullets": [
+      "Tech & Cloud Recruiting",
+      "Data & Analytics Hiring",
+      "Cybersecurity Talent",
+      "ERP / CRM Specialists"
+    ],
+    "cta": "Contact Us",
+    "icon": "layers"
+  }
+]

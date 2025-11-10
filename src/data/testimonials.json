@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "role": "HR Director",
+    "company": "TechFlow Inc",
+    "quote": "Novotion transformed our recruitment process, reducing time-to-hire by 40% while improving candidate quality significantly.",
+    "avatar": "/images/testimonial-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "role": "Talent Acquisition Lead",
+    "company": "DataSphere",
+    "quote": "Their specialized approach to tech recruiting helped us secure top-tier talent in a highly competitive market.",
+    "avatar": "/images/testimonial-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "role": "VP of People",
+    "company": "CloudNova",
+    "quote": "The career support services are exceptional. Our candidates feel supported throughout the entire process.",
+    "avatar": "/images/testimonial-3.jpg"
+  }
+]

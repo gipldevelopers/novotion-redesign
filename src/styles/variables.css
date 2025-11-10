@@ -1,0 +1,11 @@
+:root {
+  --bg: #FFFFFF;
+  --panel: #FAF9F8;
+  --text: #111827;
+  --muted: #6B7280;
+  --accent-start: #FF7A59;
+  --accent-end: #FFBF69;
+  --accent-2: #22C1A5;
+  --glass: rgba(255,255,255,0.7);
+  --card-shadow: 0 8px 30px rgba(16,24,40,0.06);
+}
